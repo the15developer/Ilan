@@ -1,0 +1,10 @@
+{
+    "email": {
+      "sender": "",
+      "password": "",
+      "receiver": ["", 
+                   "", 
+                   "",
+                   ""]
+    }
+}
